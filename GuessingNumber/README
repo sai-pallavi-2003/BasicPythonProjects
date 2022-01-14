@@ -1,0 +1,2 @@
+User gives the lower and upper bounds for the computer to guess. 'Random' generator is used, which generates a random number and its value is considered as computer's guess.
+We give fixed number of guesses to the user and let them guess the number chosen by computer
