@@ -1,0 +1,3 @@
+Playing Hangman with computer. Computer generates a word from a given file of words and we allow the user the user to guess the word by fixing number of guesses.
+for every wrong guess each part of the man gets hanged.
+if the man is completely hanged before guessing the word correctly, the computer wins the game
